@@ -51,6 +51,17 @@ html[data-theme] section {
     overflow-x: hidden;
 }
 
+html[data-theme] p, 
+html[data-theme] h1, 
+html[data-theme] h2, 
+html[data-theme] h3, 
+html[data-theme] h4, 
+html[data-theme] h5, 
+html[data-theme] h6, 
+html[data-theme] li {
+    overflow-wrap: anywhere;
+}
+
 html[data-theme] .mb-6-custom {
     margin-bottom: 60px;
 }
