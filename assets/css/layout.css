@@ -74,11 +74,11 @@ html[data-theme] section {
     align-content: center;
 }
 
-html[data-theme] ul {
+/* html[data-theme] ul {
     margin: 0;
     padding: 0;
     list-style: none;
-}
+} */
 
 html[data-theme] nav {
     height: var(--navbar-height);
