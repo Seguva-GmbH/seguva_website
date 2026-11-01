@@ -45,13 +45,13 @@ html[data-theme] {
 
 html[data-theme] html,
 html[data-theme] body, 
-html[data-theme] main,
-html[data-theme] section {
+html[data-theme] main {
     max-width: 100dvw;
     overflow-x: hidden;
 }
 
 html[data-theme] p, 
+html[data-theme] span,
 html[data-theme] h1, 
 html[data-theme] h2, 
 html[data-theme] h3, 
